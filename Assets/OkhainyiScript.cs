@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class XuinyaScript : MonoBehaviour
+public class OkhainyiScript : MonoBehaviour
 {
     public GameObject firstcam;
     public GameObject secondcam;
