@@ -1,0 +1,35 @@
+.panel {
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+    background-color: rgba(65, 233, 212, 0.58);
+    justify-content: center;
+    align-self: auto;
+}
+
+.menu {
+    align-items: center;
+    -unity-slice-scale: 1px;
+    align-self: auto;
+    justify-content: flex-start;
+    -unity-slice-left: 0;
+    -unity-slice-top: 0;
+    -unity-slice-right: 0;
+    -unity-slice-bottom: 0;
+    -unity-background-scale-mode: stretch-to-fill;
+    border-left-color: rgba(0, 0, 0, 0);
+    scale: 0.25 0.5;
+}
+
+.unity-button {
+    align-items: auto;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    scale: 0.75 0.5;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
