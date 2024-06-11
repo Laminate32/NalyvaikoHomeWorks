@@ -1,2 +1,1 @@
-# Test
-Nalyvaiko Matvii's Repo for HomeWorks
+README!! To spawn objects, press "Space". // Nalyvaiko
